@@ -1,6 +1,9 @@
 # covid-estimators
 This is a non-software github site. This is used to track different covid-estimators and uses of the estimators.
 
+Please see the https://github.com/chonghorizons/covid-estimators/wiki (WIKI) for discussion of key parameters or to add your own information about key parameters.
+
+
 Anyone can submit a suggested change and then initiate a "Pull Request". That triggers a review by the moderators to approve the change.
 
 Alternatively, things can be discussed in the Issue Tracker.
